@@ -1,6 +1,6 @@
-# LaTeX Build System for CQR
+# LaTeX Build System
 
-This directory contains a Docker-based LaTeX build system for compiling the Conceptual Quantum Relativity documentation.
+This directory contains a Docker-based LaTeX build system for compiling LaTex documentation.
 
 ## Features
 
